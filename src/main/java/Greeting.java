@@ -3,7 +3,7 @@ Greeting {
 
     public static void main (String[]args) {
 
-        System.out.println("Привет! Я учу Java! Учусь добавлять коммиты");
+        System.out.println("Привет! Я учу Java! Учусь добавлять коммиты. 18.08");
 
     }
 }
